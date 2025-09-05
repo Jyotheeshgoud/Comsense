@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
 
@@ -8,8 +7,8 @@
 
 ## Contributions  
 
-**VOOTUKURU JYOTHEESH**  
-[https://github.com/Jyotheeshgoud](https://github.com/Jyotheeshgoud)  
+**Chettim Chetty Hemasri**  
+[https://github.com/Hemasri2175](https://github.com/hemasri2175)  
 
 ## Overview  
 
